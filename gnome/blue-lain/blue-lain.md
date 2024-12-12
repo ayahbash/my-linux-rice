@@ -1,10 +1,10 @@
 ## blue lain 🌀
 
-![preview](/my-linux-rice/gnome/blue-lain/01.png)
+![preview](/01.png)
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="/my-linux-rice/gnome/blue-lain/02.png" alt="02" style="width: 45%;">
-    <img src="my-linux-rice/gnome/blue-lain/03.png" alt="03" style="width: 45%;">
+    <img src="/02.png" alt="02" style="width: 45%;">
+    <img src="/03.png" alt="03" style="width: 45%;">
 </div>
 
 
