@@ -2,10 +2,7 @@
 
 ![preview](/01.png)
 
-<div style="display: flex; justify-content: space-around;">
-    <img src="/02.png" alt="02" style="width: 45%;">
-    <img src="/03.png" alt="03" style="width: 45%;">
-</div>
+![02](/02.png) ![03](/03.png)
 
 
 
