@@ -1,11 +1,11 @@
 ## blue lain 🌀
 
 <p align="center">
-    <img src="01.png" alt="Main Image" style="width: 100%; margin-bottom: 1px; border-radius: 3px;">
+    <img src="01.png" alt="Main Image" style="width: 98%; margin-bottom: 1px;">
     <br>
     <span style="display: inline-flex; justify-content: space-around; width: 100%; margin-top: 0;">
-        <img src="02.png" alt="02" style="width: 49%; margin-top: 0; border-radius: 3px;">
-        <img src="03.png" alt="03" style="width: 49%; margin-top: 0; border-radius: 3px;">
+        <img src="02.png" alt="02" style="width: 49%; margin-top: 0;">
+        <img src="03.png" alt="03" style="width: 49%; margin-top: 0;">
     </span>
 </p>
 
