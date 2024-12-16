@@ -1,0 +1,48 @@
+#searchLight {
+  /*border: 8px solid red;*/
+}
+
+#searchLightBox {
+  /*padding: 14px;*/
+  border: 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+#searchLightBox * {
+  color:  white;
+}
+
+#searchLightBox.light * {
+  color: black;
+}
+
+#searchLightBox > StEntry:focus,
+#searchLightBox > StEntry {
+  padding: 18px!important;
+	margin-top: 0px !important;
+  margin-bottom: 20px !important;
+	border-radius: 8px;
+  border: 0px !important;
+  border-width: 0px !important;
+  background: rgba(0,0,0,0);
+  /*font-size: 14pt !important;*/
+}
+
+#searchLightBox .app-well-app {
+  /*border: 2px solid red;*/
+}
+
+#searchLightBox.light StBoxLayout.search-section-content *:focus,
+#searchLightBox.light StBoxLayout.search-section-content {
+  background: rgba(50,50,50,0.10) !important;
+}
+
+#searchLightBox StBoxLayout.search-section-content *:focus,
+#searchLightBox StBoxLayout.search-section-content {
+  background: rgba(100,100,100,0.20) !important;
+}
+
+#searchLight #searchResultsContent {
+  padding-left: 12px;
+  padding-right: 12px;
+}
