@@ -4,10 +4,10 @@
 
 ### GNOME
 
-[Blue Lain](./gnome/blue-lain/01.png)
+[Blue Lain](./gnome/blue-lain)
 ![Blue Lain](./gnome/blue-lain/01.png)
 
-[Cozy Autumn](./gnome/cozy-autumn/01.png)
+[Cozy Autumn](./gnome/cozy-autumn)
 ![Cozy Autumn](./gnome/cozy-autumn/01.png)
 
 [Sakura Pink](./gnome/sakura-miku/) (w.i.p)
