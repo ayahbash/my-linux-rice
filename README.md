@@ -22,6 +22,3 @@
 ### i3WM
 - update soon
 
-## License
-
-This project is licensed under the MIT License.
